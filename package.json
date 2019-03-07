@@ -1,5 +1,5 @@
 {
-  "name": "my-component",
+  "name": "drop-down-search",
   "version": "1.0.0",
   "main": "dist/DropDownSearch.umd.js",
   "module": "dist/DropDownSearch.esm.js",
