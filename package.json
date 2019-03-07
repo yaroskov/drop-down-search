@@ -1,0 +1,10 @@
+{
+  "name": "my-component",
+  "version": "1.0.0",
+  "main": "dist/DropDownSearch.umd.js",
+  "module": "dist/DropDownSearch.esm.js",
+  "unpkg": "dist/DropDownSearch.min.js",
+  "browser": {
+    "./sfc": "src/DropDownSearch.vue"
+  }
+}
